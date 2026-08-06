@@ -1,16 +1,42 @@
-## Hi there 👋
+# Olá! 👋 
 
-<!--
-**iasilvaalexandre/iasilvaalexandre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Analista de Produção  
+🐍 Estudando Python  
+☁️ AWS Cloud  
+⚙️ DevOps | SRE  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Tecnologias e Ferramentas
+
+- 🐍 Python
+- 🌿 Git & GitHub
+- ☁️ AWS
+- 🎯 ServiceNow & Service Desk
+- 🔄 Rundeck
+- 📊 Control-M
+- 📈 Datadog
+
+---
+
+## 📚 Atualmente estudando
+
+- 🐍 Python
+- ☁️ AWS
+- 🐳 Docker
+- 🔧 APIs REST
+- ⚙️ Automação de processos
+
+---
+
+## 🎯 Objetivo
+
+Estou construindo minha transição para a área de **Desenvolvimento Python** e **DevOps**, desenvolvendo projetos práticos e aprofundando meus conhecimentos em automação, cloud e boas práticas de desenvolvimento.
+
+---
+
+## 📂 Repositórios em destaque
+
+📘 **Curso de Python** – Exercícios, desafios e projetos desenvolvidos durante minha jornada de aprendizado.
+
+🚀 Novos projetos serão adicionados conforme minha evolução.

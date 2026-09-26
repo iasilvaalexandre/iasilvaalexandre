@@ -23,7 +23,6 @@
 
 - 🐍 Python
 - ☁️ AWS
-- 🐳 Docker
 - 🔧 APIs REST
 - ⚙️ Automação de processos
 
